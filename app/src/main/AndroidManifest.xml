@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.trekkersdenv3">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hike"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hike"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".Profile"
+            android:exported="true" />
+        <activity
+            android:name=".Forgot_password"
+            android:exported="true" />
+        <activity
+            android:name=".ContentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegisterUser"
+            android:exported="true" />
+        <activity
+            android:name=".activity_homescreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Pop"
+            android:theme="@style/Theme.CustomTheme"
+            ></activity>
+    </application>
+
+</manifest>

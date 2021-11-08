@@ -1,0 +1,38 @@
+[
+  {
+    "name":"Chadar Trek",
+    "location":"google.navigation:q=19.193422,72.968693 &mode=d",
+    "state":"Ladakh",
+    "difficulty":2
+  },
+  {
+    "name":"Gomukh Tapovan Trek",
+    "location":"google.navigation:q=19.193422,72.968693 &mode=d",
+    "state":"Uttarakhand",
+    "difficulty":4
+  },
+  {
+    "name":"Shepherd Trail Trek",
+    "location":"google.navigation:q=19.193422,72.968693 &mode=d",
+    "state":"Himachal",
+    "difficulty":1
+  },
+  {
+    "name":"Kinner Kailash Trek",
+    "location":"google.navigation:q=19.193422,72.968693 &mode=d",
+    "state":"Himachal",
+    "difficulty":5
+  },
+  {
+    "name":"Vasota Fort Trek",
+    "location":"google.navigation:q=19.193422,72.968693 &mode=d",
+    "state":"Maharastra",
+    "difficulty":3
+  },
+  {
+    "name":"Shepherd Trail Trek",
+    "location":"google.navigation:q=19.193422,72.968693 &mode=d",
+    "state":"Himachal",
+    "difficulty":1
+  }
+]

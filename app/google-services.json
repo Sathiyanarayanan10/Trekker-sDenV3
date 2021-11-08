@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694663579663",
+    "project_id": "trekker-sdenv3",
+    "storage_bucket": "trekker-sdenv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694663579663:android:3357e3bd7fdbea8d08fb7a",
+        "android_client_info": {
+          "package_name": "com.example.trekkersdenv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694663579663-ria8tfp5k0m3v8947uvl11in9qjg1kaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuDTeV4ptQ0rVBgT2_-jblYzLCrApGps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694663579663-ria8tfp5k0m3v8947uvl11in9qjg1kaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
